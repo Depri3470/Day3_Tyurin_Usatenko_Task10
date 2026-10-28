@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Day3_Tyurin_Usatenko_Task10</string>
+    <string name="enter_name">Введите ваше имя</string>
+    <string name="enter_age">Введи ваш возраст</string>
+    <string name="change_sex">Выберите ваш пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="complete_survey">Заполните анкету</string>
+    <string name="send">Отправить</string>
 </resources>
